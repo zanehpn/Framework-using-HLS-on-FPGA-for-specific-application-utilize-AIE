@@ -1,4 +1,4 @@
-# Framework-using-HLS-on-FPGA-for-specific-application-utilize-AIE
+# Framework-using-HLS-on-FPGA-for-specific-application: utilize AIE
 This is a collection of research and review papers of RAG/vector search on FPGA. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Zou QingYun].
 
 ### For specific application
